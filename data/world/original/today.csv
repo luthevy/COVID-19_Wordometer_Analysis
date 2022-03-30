@@ -1,0 +1,2 @@
+updated,cases,todayCases,deaths,todayDeaths,recovered,todayRecovered,active,critical,casesPerOneMillion,deathsPerOneMillion,tests,testsPerOneMillion,population,oneCasePerPeople,oneDeathPerPeople,oneTestPerPeople,activePerOneMillion,recoveredPerOneMillion,criticalPerOneMillion,affectedCountries
+1647748878682,470093780,454254,6098162,690,400489353,126147,63506265,62254,60309,782.3,5995438250,760032.22,7888400071,0,0,0,8050.59,50769.4,7.89,227
